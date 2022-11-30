@@ -10,11 +10,11 @@ NuHair Transplants offers state of the art surgical and non-surgical hair restor
 
 ## Page Links
 
-- [HOME](https://swagata-codearts.github.io/phoenixhairinstitute/)
-- [ABOUT US](https://swagata-codearts.github.io/phoenixhairinstitute/about-us.html)
-- [BUSINESS OPPORTUNITIES](https://swagata-codearts.github.io/phoenixhairinstitute/business-opportunities.html)
-- [SERVICES](https://swagata-codearts.github.io/phoenixhairinstitute/services.html)
-- [SURGICAL HAIR TRANSPLANTS](https://swagata-codearts.github.io/phoenixhairinstitute/hair-transplants.html)
-- [CLIENT PHOTOS](https://swagata-codearts.github.io/phoenixhairinstitute/client-photos.html)
-- [CONTACT US](https://swagata-codearts.github.io/phoenixhairinstitute/contact-us.html)
-- [FAQ](https://swagata-codearts.github.io/phoenixhairinstitute/faq.html)
+- [HOME](https://deep1407.github.io/phoenixhairinstitute/)
+- [ABOUT US](https://deep1407.github.io/phoenixhairinstitute/about-us.html)
+- [BUSINESS OPPORTUNITIES](https://deep1407.github.io/phoenixhairinstitute/business-opportunities.html)
+- [SERVICES](https://deep1407.github.io/phoenixhairinstitute/services.html)
+- [SURGICAL HAIR TRANSPLANTS](https://deep1407.github.io/phoenixhairinstitute/hair-transplants.html)
+- [CLIENT PHOTOS](https://deep1407.github.io/phoenixhairinstitute/client-photos.html)
+- [CONTACT US](https://deep1407.github.io/phoenixhairinstitute/contact-us.html)
+- [FAQ](https://deep1407.github.io/phoenixhairinstitute/faq.html)
